@@ -1,6 +1,7 @@
 #!/bin/bash
 
-imagen="2c7adab65d34876a374a1069c155c4d5e1361753e53c4ebc73b127039368aa441d0ec50980fa8cad66615f1b18c0bee0dff1cc5c6d994f559cfc1f0371501fb3.jpg"
+imagen="{añade aqui la imagen}"
+# tienes que tener la libreria rockyou.txt
 archivo_contrasenas="rockyou.txt"
 
 if [ ! -f "$archivo_contrasenas" ]; then
